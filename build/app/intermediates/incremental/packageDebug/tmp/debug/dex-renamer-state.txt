@@ -1,0 +1,4 @@
+#Fri Oct 13 18:21:30 IST 2023
+base.0=C\:\\Users\\gites\\Desktop\\flutter projects\\google_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

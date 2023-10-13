@@ -1,0 +1,230 @@
+{
+   "checksum": "4062716f0dc67535c52a1f21fafc2dfd",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13252683512405217",
+            "date_last_used": "0",
+            "guid": "c01eb090-047e-460b-a973-b6ae209ea7c1",
+            "id": "12",
+            "name": "Online Courses - Anytime, Anywhere | Udemy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.udemy.com/"
+         }, {
+            "date_added": "13253430868186502",
+            "date_last_used": "0",
+            "guid": "f92ffbc4-e3fa-48a5-9ae8-d410088be1f5",
+            "id": "13",
+            "name": "Library Genesis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://libgen.rs/"
+         }, {
+            "date_added": "13255690206987065",
+            "date_last_used": "0",
+            "guid": "83e310c4-f2e5-40c8-9306-ea7421a6d24f",
+            "id": "14",
+            "name": "Inbox (17) - 20bcs009@iiitdwd.ac.in - Indian Institute of Information Technology Dharwad Mail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/1/#inbox"
+         }, {
+            "date_added": "13263196209252823",
+            "date_last_used": "13337338639506399",
+            "guid": "9a926c33-f452-49df-9994-b32eec00bdb4",
+            "id": "15",
+            "name": "Classes IIIT Dharwad",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/h"
+         }, {
+            "date_added": "13266407762609956",
+            "date_last_used": "0",
+            "guid": "9a44dba6-ff69-4009-8066-dc6066b9fb0a",
+            "id": "16",
+            "name": "Apowersoft Online Screen Recorder - Web-based Screen recorder",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.apowersoft.com/free-online-screen-recorder"
+         }, {
+            "date_added": "13273824126324368",
+            "date_last_used": "0",
+            "guid": "05f03bd9-9c3e-4ca6-893e-c98499af18c3",
+            "id": "17",
+            "name": "TechBytes – Learning with Passion",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hobbybytes.in/"
+         }, {
+            "date_added": "13275978136091655",
+            "date_last_used": "0",
+            "guid": "fa371b76-fb18-4581-9852-8e5def93789c",
+            "id": "18",
+            "name": "(730) Pointers In C: C Tutorial In Hindi #26 - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=IBjGjDbwxSg&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR&index=26"
+         }, {
+            "date_added": "13276236445889710",
+            "date_last_used": "0",
+            "guid": "af71f8bf-70f4-4abc-a3a4-641ea573f672",
+            "id": "19",
+            "name": "CS208",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://meet.google.com/upg-yoss-nkc?pli=1&authuser=1"
+         }, {
+            "date_added": "13277387498707219",
+            "date_last_used": "0",
+            "guid": "1ed2d2f1-6180-4062-a65d-b913cfcc5fbe",
+            "id": "20",
+            "name": "Setup Confirmation EDU - Start | SketchUp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.sketchup.com/setup-confirmation/start-edu"
+         }, {
+            "date_added": "13277387513567531",
+            "date_last_used": "0",
+            "guid": "edf32070-aeae-46ef-8d9e-15b8f3647c76",
+            "id": "21",
+            "name": "Find Your Lumion Partner | Buy, Students, Free Trial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lumion.com/find-reseller.html"
+         }, {
+            "date_added": "13277387526041023",
+            "date_last_used": "0",
+            "guid": "be61049a-40e6-438c-bdf9-e55008e92cc0",
+            "id": "22",
+            "name": "Shapespark",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cloud.shapespark.com/#download"
+         }, {
+            "date_added": "13281593759025063",
+            "date_last_used": "0",
+            "guid": "93d695f4-6fe9-45c4-b9ba-7e3d70fceda1",
+            "id": "23",
+            "name": "Blank diagram: Lucidchart",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lucid.app/lucidchart/13599285-6f0f-4b01-89c5-b32caa3332ba/edit?beaconFlowId=5DC13AA7644E2302&invitationId=inv_d28b9cc0-0a14-4a24-84e5-d78d454c2f80&page=0_0#"
+         }, {
+            "date_added": "13271506027296848",
+            "date_last_used": "0",
+            "guid": "0be9be32-12fa-43d3-892f-085b01fe8d57",
+            "id": "24",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13271602544625724",
+            "date_last_used": "0",
+            "guid": "bb758aba-b60a-4d0d-bdae-70b38958c991",
+            "id": "25",
+            "name": "GRIP | The Spark Foundation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://internship.thesparksfoundation.info/#steps-to-apply"
+         } ],
+         "date_added": "13341674759870550",
+         "date_last_used": "0",
+         "date_modified": "13281593759025063",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13288640668633479",
+            "date_last_used": "0",
+            "date_modified": "13288640668633479",
+            "guid": "4c4fb429-92a2-4ca6-95a5-18311fae9b64",
+            "id": "7",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13290707004984118",
+               "date_last_used": "0",
+               "guid": "9b08d5da-1a8b-4589-8390-5ff9bcae8e09",
+               "id": "9",
+               "name": "2022-03 - 200x Ultimate Tech Giveaway Winners » dbrand",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://dbrand.com/winners"
+            }, {
+               "date_added": "13304265858519344",
+               "date_last_used": "0",
+               "guid": "571c9a2a-593f-4acf-8434-12ec06455c8a",
+               "id": "10",
+               "name": "Pointers In C: C Tutorial In Hindi #26 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.bing.com/search?q=gmail&cvid=0d8e4cdb0516466386c22c0e96e94776&aqs=edge.3.69i59i450l5...5.437899j0j4&FORM=ANAB01&PC=DCTS"
+            }, {
+               "date_added": "13337375546998766",
+               "date_last_used": "0",
+               "guid": "f12a99c1-dbc7-4561-a99d-59a51b568c2d",
+               "id": "11",
+               "name": "ata",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/gites/Downloads/1.2%20Systems%20and%20Data%20Science.pdf"
+            } ],
+            "date_added": "13288640668633669",
+            "date_last_used": "0",
+            "date_modified": "13337375546998766",
+            "guid": "70d63fe7-6ab8-4797-b608-51b75ac5738f",
+            "id": "8",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13341674759870552",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341674759870554",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCHBADimLAQAAKg4QABgBIAwoBjAAOABAABIAIAEqGHd3SE9La201ZFkrQWdvTFQ0RGQwYUE9PaAGDBKpAQgYEqQBChxwbmRYWGdURFNwQjJuVWVGV05DNVpBTUhEOTg9EiQwYmU5YmUzMi0xMmZhLTQzZDMtODkyZi0wODViMDFmZThkNTcYACAAKAAwlOOE5vAwOKeA+P/sL0CngPj/7C9KHEFKQ1hibk9nU0I5MHRBNWpReUtKYllJTGZQTT1aICIe//9kckc0U1pUNXhqbmcrOFV4MmlNVW5DUUsyV3M9ZTj5OTMSqQEIFRKkAQoccGQ5WFlkOXh1Vkwrb0szVWZrbTk3SFVOWitnPRIkZWRmMzIwNzAtYWVhZS00NmVmLThkOWUtMTViOGYzNjQ3Yzc2GAAgACgAMOz99//sLzj9ibbx6i9A/Ym28eovShxUZmVNQTlRamFtV1Z3dVhhcWYrWGhUVmRtTDA9WiAiHv/6WEd0TE12WEZlK3RxSElTYUVCVjk0T05kVTBJPWVKkAiPEqkBCBQSpAEKHDFzVjd6ZjhqTlFGcGU3WXBSVkxud29VUFVjOD0SJDFlZDJkMmYxLTYxODAtNDA2Mi1hNjVkLWI5MTNjZmNjNWZiZRgAIAAoADDV8vy84y84soi28eovQLKItvHqL0ocUzJ2SlNtQ1hWdjhGb2VUZFdrWURocS9iaGowPVogIh7/9VM3UzA3N2JXVjRpWUYyZWh5REQrRW5HQkRLaz1lAAAAABKoAQgREqMBChxJbjJ2RWZrdVM5TzRmT2RXdzFVNDBXTExmemM9EiQwNWYwM2JkOS05YzNlLTRjYTYtODkzZS1jOTg0OTlhZjE4YzMYACACKAIwyrzLyLIxOPCItvHqL0CHz8rIsjFKHDV5cWZha1EyMmpOeEVrbzQrUld4ejVucGxBWT1aHyId/XRUTmJSaExyTnV4NFM3SWZDaEVoRWhiMmtYdz1lPF4tTBKoAQgQEqMBChxCRXdSUVBPV1lhdmJOZ0JENEJzUkw1NHlKOGM9EiQ5YTQ0ZGJhNi1mZjY5LTQwMDktODA2Ni1kYzYwNjZiOWZiMGEYACACKAIwyLzLyLIxOK+JtvHqL0CGz8rIsjFKHEVnSzY1d3ZCS2pnZ3Z6akJPV3lrTUEyQnloOD1aHyId7UhWV3pubW9Tc2taUmFJbURHb1pidG9zdWp3ST1lBA9XhRKpAQgTEqQBChx5ZWJBSnpCbU1ZUUdOVVdxZzBhdU1oN1ozZm89EiRhZjcxZjhiZi03MGY0LTRhYmMtYTNhNC02NDFlYTU3M2Y2NzIYACAAKAAw7P33/+wvON6JtvHqL0Deibbx6i9KHDVFb2xTQVZQb09lbkZJSGRFS2U0UnJOb09Hcz1aICIe/+s1Z1FWQ09jVmdYamY5dG50a0lNeWpJVnViVVk9ZfQi9RsSqAEIDxKjAQocREhnVlVyTXQ0NUQ3NFhScWo0VytIQ1RuTXNJPRIkOWE5MjZjMzMtZjQ1Mi00OWRmLTk5OTQtYjMyZWVjMDBiZGI0GAAgAigCMMe8y8iyMTi+ibbx6i9Ahs/KyLIxShxFYlVrc004QjdDa3ljQlVMb2wvb1hDcCtYb1U9Wh8iHds3NFB4N2hJUVBTbjl3d1hKTlFWK3JUY2NLbXM9ZQtRbGcSqQEIEhKkAQocc3lNc1cxVTJLQkprRENuSmVuSEJ1VXByNnBzPRIkZmEzNzFiNzYtZmIxOC00NTgxLTk4NTItOGU1ZGVmOTM3ODljGAAgACgAMPaVoIirMDisirbx6i9ArIq28eovShxxQmhBNVcrd1kzZnFqY25mTk9IS1NyWUs0Mkk9WiAiHv+sSHUzTDQ2WnFvUEpFVXVhY2VxclA5SGpEbTdNPWU4+TkzEqgBCAgSowEKHG5pNlFsY0kwcW5lZHFXRDMvS2pTSmdtMkhIYz0SJDcwZDYzZmU3LTZhYjgtNDc5Ny1iNjA4LTUxYjc1YWM1NzM4ZhgAIAAoADDXlvv/7C84z5f7/+wvQM+X+//sL0ocV2dBTE5WMW1hVWpETDVnWEwzNU5qYjI3TWU0PVofIh2lNjF4Nzd6WGVqWUtrNGxRNzAzM3J5Y1RGeUtrPWUAAAAAEqcBCAwSogEKHE0yeVFFMnNLREV5OHMxQTFscG5obWRjZmZUMD0SJGMwMWViMDkwLTA0N2UtNDYwYi1hOTczLWI2YWUyMDllYTdjMRgAIAIoAjDGvMvIsjE47Ym28eovQITPysiyMUocbFFTdHZEU2tBYnNaZWhvejFHY1JWMnZzVlVFPVoeIhwxSlAxNWV3Qm5lZXR3VEhRdHlQTXN3UkxPRk09ZQSi1gcSqQEIFxKkAQocbHFnN3pKYlFsMDJOZ2NMeENkRFhDMXBsOGpvPRIkOTNkNjk1ZjQtNmZlOS00NWM0LWI5YmEtN2UzZDcwZmNlZGExGAAgACgAMNXy/LzjLzjBiLbx6i9AwYi28eovShxxd0dpb25BY0ZMcENTNFExa3hvMGk5RzB6MWM9WiAiHv/+Wk1GQ1JCRVdiZ3NMN00rUE5UQkF0OVlERFV3PWUAAAAAEqcBCA0SogEKHGhOQXk3TlJUZEV0UjBabmZ0d1R4SzJORmVZbz0SJGY5MmZmYmM0LWUzZmEtNDhhNS05YWU4LWQ0MTAwODhiZTFmNRgAIAIoAjDJvMvIsjE4nIq28eovQIXPysiyMUocQ3dYOUloU2ZqektxRzY0YWloNnpLaDQrbzhnPVoeIhxsMnlDWXZjTWJPWTJJTTFlSlh6TVZRL2VBdzQ9ZUt6ZRsSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNGNjMzMyZDUtMmEzOC01ODliLTkwOGUtMTJmNDU5YzI5Y2ExGAAgACgAMIH5qs2wMDi8rLLx6i9AvKyy8eovShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgLEqMBChxjY2JId0hZM0RzL2FSYjQ3VGwybUU3THVFaDA9EiRmMTJhOTljMS1kYmM3LTQ1NjEtYTk5ZC01OWE1MWI1NjhjMmQYACAAKAAw2MjGxqIxOMjLxsaiMUDIy8bGojFKHEN4bnJ1UStnblBXOGZxQUhpS3Y5MWV4UFBEYz1aHyId0Ut1TVdQRlYrWkhXRVA0enB6aDU1QlZ4M1VXYz1ld3BsoxKpAQgWEqQBChxIbmRRQjR1S2xYWVcvM2lSaXN2akdUMjNLOEk9EiRiZTYxMDQ5YS00MGU2LTQzOGMtYmRmOS1lNTUwMDhlOTJjYzAYACAAKAAw1fL8vOMvONGItvHqL0DRiLbx6i9KHEdxZm5GWXpZZnJvM1V4L1ViRU9FWXo5M0Ezaz1aICIe//1HcWtqc242YjBxRzVYeEZxS2xNaGJZRkFKZnc9ZQAAAAASqAEIChKjAQocTjZaM01Xc0piMkJuTlU1ZmVrNEhqL3JtS3BJPRIkNTcxYzlhMmEtNTkzZi00YWNmLTg0MzQtMTJlYzA2NDU1YzhhGAAgACgAMNWf0JqnMDijgNCapzBAo4DQmqcwShxHOG15dFdZZi9BcjQ5U2Znbkk1MFVYZHdNbkk9Wh8iHaNBT2ozRFpnUXJjOHR0d2VjUXluM2NHY2lQcWc9ZbN/yHMSiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkN2ZjNjI2ZDUtMDM5ZC01YTljLTk1NDAtNWU2ZDFjMzczN2QzGAAgACgAMIH5qs2wMDiarbLx6i9Amq2y8eovShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKnAQgJEqIBChw5YzNWOTlHaWNoOTkweUJqcGlNdytKNlhOK3c9EiQ5YjA4ZDVkYS0xYThiLTQ1ODktODM5MC01ZmY5YmNhZThlMDkYACAAKAAwp6Ch2fQvOPegodn0L0D3oKHZ9C9KHEZUdjRVazlLaUlEb0pjaFZNWGdYTzRwdkFnRT1aHiIcR2ZCWmdoTSsxcHFDNWlJQWY2OUl0RElDVFVJPWVfgUX7EqcBCAcSogEKHDlQVU5aU0VzcDhsVDFjbWJqRDZZU0UrVFlEOD0SJDRjNGZiNDI5LTkyYTItNGNhNi05NWE1LTE4MzExZmFlOWI2NBgAIAAoADDXlvv/7C84sJf7/+wvQLCX+//sL0ocVWdUZms3bmc0RlVDdTBnUkhJWW1tRHVSaGRZPVoeIhxKLzNOS1AycUcvUXhpT3hBbkFlK3lnaUt1OTA9ZQAAAAASqAEIDhKjAQocZkJNWDFlejUwbEY4NWJRZzhWQVpDTDBKNVBvPRIkODNlMzEwYzQtZjJlNS00MGM4LTkzMDYtZWE3NDIxYTZkMjRmGAAgAigCMMW8y8iyMTiPibbx6i9Ahc/KyLIxShxvRExleHovZ3pRMWkwRTZyZk1UQmgzS2ZrUDA9Wh8iHbZoVElHUmxsZHkzQjh4UlhXOTZkbC90d3dOUkk9ZYugjNESqgEIGRKlAQocTCsrSmVqSjdyd3ZqdEF5MlI0alNYRDhRZmJZPRIkYmI3NThhYmEtYjYwYS00ZDBkLWJkYWUtNzBiMzg5NThjOTkxGAAgACgAMOz99//sLzjc/vf/7C9A3P73/+wvShw3alVIdTRIYmw3djBua24xREw1UG5DZTYxRUk9WiEiH///sjFsSktLb01pSFY2NXlONTgyWGltOHMyTWsxTT1lEjzkdhKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRkN2IzMzAwZi0xMTg4LTVjMTItODllMy0yNTMwZWZkZDlhNTgYACAAKAAwgfmqzbAwONussvHqL0DbrLLx6i9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}

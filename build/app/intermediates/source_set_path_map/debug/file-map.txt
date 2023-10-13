@@ -1,0 +1,14 @@
+com.example.google_flutter.app-jetified-window-1.0.0-beta04-0 C:\Users\gites\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.google_flutter.app-jetified-annotation-experimental-1.3.0-1 C:\Users\gites\.gradle\caches\transforms-3\937d6edc8055f6701a18eeac1a67afe6\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.google_flutter.app-lifecycle-runtime-2.3.1-2 C:\Users\gites\.gradle\caches\transforms-3\9a249567dcb8025899915ed9a2426636\transformed\lifecycle-runtime-2.3.1\res
+com.example.google_flutter.app-jetified-window-java-1.0.0-beta04-3 C:\Users\gites\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.google_flutter.app-core-1.10.1-4 C:\Users\gites\.gradle\caches\transforms-3\c4988ff80110f75080a936fc6f044848\transformed\core-1.10.1\res
+com.example.google_flutter.app-debug-5 C:\Users\gites\Desktop\flutter projects\google_flutter\android\app\src\debug\res
+com.example.google_flutter.app-main-6 C:\Users\gites\Desktop\flutter projects\google_flutter\android\app\src\main\res
+com.example.google_flutter.app-pngs-7 C:\Users\gites\Desktop\flutter projects\google_flutter\build\app\generated\res\pngs\debug
+com.example.google_flutter.app-resValues-8 C:\Users\gites\Desktop\flutter projects\google_flutter\build\app\generated\res\resValues\debug
+com.example.google_flutter.app-rs-9 C:\Users\gites\Desktop\flutter projects\google_flutter\build\app\generated\res\rs\debug
+com.example.google_flutter.app-mergeDebugResources-10 C:\Users\gites\Desktop\flutter projects\google_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.google_flutter.app-mergeDebugResources-11 C:\Users\gites\Desktop\flutter projects\google_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.google_flutter.app-merged_res-12 C:\Users\gites\Desktop\flutter projects\google_flutter\build\app\intermediates\merged_res\debug
+com.example.google_flutter.app-packaged_res-13 C:\Users\gites\Desktop\flutter projects\google_flutter\build\url_launcher_android\intermediates\packaged_res\debug
